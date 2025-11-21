@@ -2,6 +2,7 @@ streamlit
 openai
 python-dotenv
 trafilatura
+langchain
 langchain-upstage
 langchain-chroma
 langchain-text-splitters
