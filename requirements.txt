@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+trafilatura
+langchain-upstage
+langchain-chroma
