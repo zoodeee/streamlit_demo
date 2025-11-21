@@ -4,3 +4,4 @@ python-dotenv
 trafilatura
 langchain-upstage
 langchain-chroma
+langchain-text-splitters
